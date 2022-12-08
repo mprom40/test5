@@ -1,0 +1,76 @@
+body{
+	background-color:Aqua;
+}
+h2{
+	font-size:20pt;
+	
+	color:navy;
+	
+	text-align:center;
+	
+	font-family:Book Antiqua;
+	
+	font-style:italic;
+	
+	letter-spacing:5px;
+	
+}
+
+p{
+	   
+font-size:10pt;
+
+color:black;
+
+text-align:justify;
+  
+font-family:Comic Sans MC;  
+
+text-indent:15px;
+
+
+	  
+}
+#p_inf{
+	
+font-size:8pt;
+
+color:#009933;
+
+text-align:left;
+  
+font-family:Tahoma;  
+
+text-indent:15px;
+
+	
+}
+img{
+
+float:left;
+
+margin:13px;
+
+box-shadow:10px 15px 12px #888888;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
